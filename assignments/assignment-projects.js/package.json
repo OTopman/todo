@@ -1,0 +1,17 @@
+{
+  "name": "assignment-projects",
+  "version": "1.0.0",
+  "description": "assignment projects ",
+  "main": "assignment-projects.js",
+  "scripts": {
+    "start": "nodemon assignment-projects.js"
+  },
+  "author": "OgbeniAZ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

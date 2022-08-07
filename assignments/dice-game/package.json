@@ -1,0 +1,17 @@
+{
+  "name": "dice-game-project",
+  "version": "1.0.0",
+  "description": "Rolling of dice game ",
+  "main": "dicegame.js",
+  "scripts": {
+    "start": "nodemon dicegame.js"
+  },
+  "author": "OgbeniAZ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

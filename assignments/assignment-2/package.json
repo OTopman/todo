@@ -1,0 +1,17 @@
+{
+  "name": "basicoperationapp",
+  "version": "1.0.0",
+  "description": "Basic Operation api",
+  "main": "assignment-2.js",
+  "scripts": {
+    "test": "nodemon assignment-2.js"
+  },
+  "author": "OgbeniAZ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

@@ -1,0 +1,17 @@
+Modules used in the application
+express
+http
+
+run npm init - to create package.json
+run npm install - to install packages in the dependencies property
+run npm install --save <package-name> - to install package locally
+run npm install -g <package-name> - to install package globally
+run npm run start - To start the application
+
+App functions
+Create todo : title, description
+Edit todo
+List todo
+Get a todo
+Delete todo
+Mark as done
